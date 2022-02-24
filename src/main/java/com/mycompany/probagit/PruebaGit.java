@@ -10,4 +10,7 @@ package com.mycompany.probagit;
 
 public class PruebaGit {
     //comentario de prueba
+    //otro comentario de prueba
+    
+    //Este comentario debería estar en la rama nueva
 }
