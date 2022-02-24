@@ -4,10 +4,10 @@
  */
 package com.mycompany.probagit;
 
-/**
- *
- * @author marti
- */
+
+        //Se borraron líneas
+       //comentario de prueba
+
 public class PruebaGit {
-    
+    //comentario de prueba
 }
